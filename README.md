@@ -28,10 +28,15 @@ ProjectDescriptionToolsstatcom-reactive-powerSTATCOM simulation with LCL filter 
 📜 Certifications
 
 🎓 Design of Power Electronics Converters — IIT NPTEL (2026)
+
 🎓 Transducers for Instrumentation — IIT NPTEL (2026)
+
 🏭 GMP & cGMP Compliance Training — Mylan Laboratories (2026)
+
 ⚡ LOTO & Electrical Safety Practices (2024–2026)
+
 🏗️ Industrial Training — 30 MW Steam Power Plant, Gammon India Ltd. (2023)
+
 
 
 📊 GitHub Stats
