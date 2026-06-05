@@ -1,6 +1,6 @@
 Hi, I'm Akshay Dighe ⚡
 Electrical Engineer | Power Systems | STATCOM & FACTS Researcher | M.Tech – Electrical Power Systems (SPPU)
-📍 Nashik, Maharashtra, India  |  📧 akshaydighe144@gmail.com  |  🔗 LinkedIn-  https://www.linkedin.com/in/er-dighe-akshay-06ab89253/?skipRedirect=true
+📍 Nashik, Maharashtra, India  |  📧 akshaydighe144@gmail.com  |   🔗 LinkedIn-  https://www.linkedin.com/in/er-dighe-akshay-06ab89253/?skipRedirect=true
 
 🔭 Current Work
 Pursuing M.Tech in Electrical Power Systems at Savitribai Phule Pune University (2026), with research focused on STATCOM-based Reactive Power Compensation using LCL Filter & PI Controller in MATLAB Simulink.
