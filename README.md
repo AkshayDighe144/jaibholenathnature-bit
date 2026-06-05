@@ -1,15 +1,42 @@
-# 💫 About Me:
-🔭 I'm currently working on HVAC & Electrical Utilities for USFDA/WHO-GMP certified pharma facility at Mylan Laboratories (Viatris)<br><br>👯 I'm looking to collaborate on Power Systems projects, Electrical Utilities optimization, Energy Audit studies, and HVAC/BMS automation for industrial or pharma facilities<br><br>🤝 I'm looking for help with Advanced ETAP simulations, Grid-tied inverter control strategies, and Power Electronics research in FACTS devices<br><br>🌱 I'm currently learning Power Electronics Converter Design (IIT NPTEL), STATCOM & Reactive Power Compensation — M.Tech research project at SPPU<br><br>💬 Ask me about HVAC & Utilities for USFDA/WHO-GMP pharma plants, STATCOM & FACTS, Reactive Power Compensation, VFD maintenance, BMS/EMS, IQ/OQ/PQ validation, and Operational Excellence (OpEx)
+Hi, I'm Akshay Dighe ⚡
+Electrical Engineer | Power Systems | STATCOM & FACTS Researcher | M.Tech – Electrical Power Systems (SPPU)
+📍 Nashik, Maharashtra, India  |  📧 akshaydighe144@gmail.com  |  🔗 LinkedIn
+
+🔭 Current Work
+Pursuing M.Tech in Electrical Power Systems at Savitribai Phule Pune University (2026), with research focused on STATCOM-based Reactive Power Compensation using LCL Filter & PI Controller in MATLAB Simulink.
+
+🧪 M.Tech Research Project
+STATCOM-Based Reactive Power Compensation (LCL Filter & PI Controller)
+
+Designed and simulated a STATCOM system in MATLAB Simulink to improve power factor and voltage stability at the Point of Common Coupling (PCC).
+
+Key highlights:
+
+Implemented LCL filter to attenuate high-frequency switching harmonics → significant THD reduction
+Tuned PI controller for dynamic voltage regulation under variable load conditions
+Demonstrated stable reactive power control using VSC (Voltage Source Converter)
+Modelled PWM-based gate signal generation for switching control
+
+Tools: MATLAB Simulink · ETAP · AutoCAD · Power Electronics (PWM, VSC, DC-DC Converters)
+
+🛠️ Technical Skills
+DomainSkillsPower SystemsLT/HT Distribution, 11 kV Transformers, DG Sets, Protection Relays, SLD, Load Flow AnalysisPower ElectronicsSTATCOM, FACTS, Reactive Power Compensation, LCL Filter, PI Controller, PWM, VSCSimulation ToolsMATLAB Simulink, ETAP, AutoCADIndustrial SoftwareSAP/FIORI (PM & Work Orders), Basic PLC, MS OfficeStandards & ComplianceUSFDA GMP, WHO-GMP, cGMP, IQ/OQ/PQ, LOTO, RCA, CAPA
+
+📂 Repositories (Coming Soon)
+ProjectDescriptionToolsstatcom-reactive-powerSTATCOM simulation with LCL filter & PI controllerMATLAB Simulinkhybrid-ev-chargingHybrid AC/DC charging topology for EV energy storageMATLABenergy-audit-toolkitExcel-based energy audit templates for HVAC systemsExcel / Python
+
+📜 Certifications
+
+🎓 Design of Power Electronics Converters — IIT NPTEL (2026)
+🎓 Transducers for Instrumentation — IIT NPTEL (2026)
+🏭 GMP & cGMP Compliance Training — Mylan Laboratories (2026)
+⚡ LOTO & Electrical Safety Practices (2024–2026)
+🏗️ Industrial Training — 30 MW Steam Power Plant, Gammon India Ltd. (2023)
 
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Akshay Dighe) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Akshay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/er-dighe-akshay-06ab89253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaydighe144@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jaibholenathnature-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jaibholenathnature-bit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaibholenathnature-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📊 GitHub Stats
+Show Image
 
----
-[![](https://komarev.com/ghpvc/?username=jaibholenathnature-bit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🤝 Let's Connect
+I'm open to roles in Power Systems Engineering / Electrical Utilities / HVAC Engineering.
+Feel free to reach out on LinkedIn or drop an email at akshaydighe144@gmail.com.
